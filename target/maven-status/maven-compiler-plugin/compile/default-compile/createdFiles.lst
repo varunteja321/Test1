@@ -1,0 +1,6 @@
+com\movingtoweb\service\HelloWorldService.class
+com\movingtoweb\Application.class
+com\movingtoweb\model\Users.class
+com\movingtoweb\config\ConfigurationSettings.class
+com\movingtoweb\repository\UsersRepository.class
+com\movingtoweb\service\UserService.class

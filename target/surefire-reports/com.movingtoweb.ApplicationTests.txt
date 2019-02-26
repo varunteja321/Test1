@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.movingtoweb.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.147 sec - in com.movingtoweb.ApplicationTests
