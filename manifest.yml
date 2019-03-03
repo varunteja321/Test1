@@ -1,7 +1,7 @@
 applications:
 - name: spring-boot
   host: varun-pcf
-  path: target\varun-automate-0.0.1-SNAPSHOT.jar
+  path: target\spring-boot-varun-automate-0.0.1-SNAPSHOT.jar
   buildpack: https://github.com/cloudfoundry/java-buildpack
   domain: cfapps.io
   space: PROD
