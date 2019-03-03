@@ -1,0 +1,9 @@
+applications:
+- name: spring-boot
+  host: varun-pcf
+  path: target\*.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack
+  domain: cfapps.io
+  space: PROD
+  memory: 750MB
+  instances: 1
